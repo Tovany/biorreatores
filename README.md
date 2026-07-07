@@ -21,5 +21,6 @@ $$\mu=\left(\frac{\mu_{max}S}{K_S+S+\frac{S^2}{K_i}}\right)\left(1-\frac{P}{P_{m
 
 A partir dos modelos propostos, obteve-se as seguintes curvas as quais demonstram a dinâmica no biorreator.
 
-![Comparação entre simulado e experimental ](/biorreatores/comparacao.jpeg)
-![Curvas únicas](/biorreatores/unico.jpeg)
+![Comparação entre simulado e experimental](comparacao.jpeg)
+
+![Curvas únicas](unico.jpeg)
