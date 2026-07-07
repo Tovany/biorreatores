@@ -1,5 +1,10 @@
 Esse repositório tem como objetivo a modelagem matemática de um biorreator em batelada, obdecendo a cinética Andrews / Lee-Pirt-Coulman / Levenspiel.
 
+O código principal está disponível no [main.m](/main.m).
+As funções auxiliares estão disponíveis nos demais arquivos, como:
+* [Celulas.m](celulas.m)
+* [Substrato.m](substrato.m)
+* [produto.m](produto.m)
 
 
 # MODELAGEM DE BIORREATOR EM BATELADA
